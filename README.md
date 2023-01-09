@@ -156,18 +156,27 @@
 </table>
 
 
-<h2>📈My Activity</h2>
-
-<div align="center">
-    <a href="https://github.com/ismielabir/">
-      <img src="https://github-readme-stats.vercel.app/api?username=ismielabir&show_icons=true&theme=algolia&hide_border=true" width="49%"/>
-    </a>
-    <a href="https://github.com/ismielabir/">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismielabir&theme=algolia&hide_border=true" width="49%"/>
-    </a>
-</div>
-<div align="center">
-  <a href="https://github.com/ismielabir/">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismielabir&langs_count=8&theme=algolia&layout=compact&hide_border=true" width="50%"/>
-  </a>
-</div>
+<h2 >My Activity < /h2 > 
+ 
+<div align = "center" > 
+<a href =
+	 "https://github.com/ismielabir/" > 
+<img src =
+	 "https://github-readme-stats.vercel.app/api?username=ismielabir&show_icons=true&theme=algolia&hide_border=true"
+	 width = "49%" / >
+</a > 
+<a href =
+	 "https://github.com/ismielabir/" > 
+<img src =
+	 "https://github-readme-streak-stats.herokuapp.com/?user=ismielabir&theme=algolia&hide_border=true"
+	 width = "49%" / >
+</a > 
+</div > 
+<div align = "center" > 
+<a href =
+	 "https://github.com/ismielabir/" > 
+<img src =
+	 "https://github-readme-stats.vercel.app/api/top-langs/?username=ismielabir&langs_count=8&theme=algolia&layout=compact&hide_border=true"
+	 width = "50%" / >
+</a > 
+</div > 
