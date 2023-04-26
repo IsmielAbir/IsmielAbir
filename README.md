@@ -176,7 +176,7 @@
 <a href =
 	 "https://github.com/ismielabir/" > 
 <img src =
-	 "https://github-readme-stats.vercel.app/api/top-langs/?username=ismielabir&langs_count=8&theme=algolia&layout=compact&hide_border=true"
+	 "https://github-readme-stats.vercel.app/api/top-langs/?username=ismielabir&langs_count=12&theme=algolia&layout=compact&hide_border=true"
 	 width = "50%" / >
 </a > 
 </div > 
