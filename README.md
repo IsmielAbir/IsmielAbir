@@ -4,7 +4,8 @@
 -  I’m looking to collaborate on open source project
 
 
-![](https://komarev.com/ghpvc/?username=IsmielAbir&color=green&style=for-the-badge&label=Visitors)
+![](https://komarev.com/ghpvc/?username=IsmielAbir)
+
 
 <h2>🛠️knowledge and My Skills</h2>
 
