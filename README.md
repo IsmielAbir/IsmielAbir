@@ -1,30 +1,26 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Ismiel%20Hossen%20Abir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Researcher%20%7C%20Explainable%20AI%20%7C%20Multidisciplinary%20Science&descAlignY=55&descSize=18" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Ismiel%20Hossen%20Abir&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Md. Ismiel Hossen Abir" />
 </p>
 
-<p align="center">
-  <a href="https://www.researchgate.net/profile/Md-Ismiel-Hossen-Abir" target="_blank">
-    <img src="https://img.shields.io/badge/%F0%9F%8E%93_LOOKING_FOR-PhD_%26_Research_Opportunities-8A2BE2?style=for-the-badge&labelColor=000000" alt="Looking for PhD" />
-  </a>
-</p>
+<h2 align="center">🎓 Looking for PhD and Research Opportunities</h2>
 
 <p align="center">
-  <a href="https://github.com/IsmielAbir" target="_blank">
+  <a href="https://github.com/IsmielAbir" target="_blank" rel="noopener noreferrer">
     <img src="https://komarev.com/ghpvc/?username=IsmielAbir&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
-  <a href="https://github.com/IsmielAbir?tab=followers" target="_blank">
+  <a href="https://github.com/IsmielAbir?tab=followers" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/github/followers/IsmielAbir?label=Followers&style=flat-square&color=blueviolet" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/md-ismiel-hossen-abir/" target="_blank">
+  <a href="https://www.linkedin.com/in/md-ismiel-hossen-abir/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.kaggle.com/mdismielhossenabir" target="_blank">
+  <a href="https://www.kaggle.com/mdismielhossenabir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
-  <a href="https://www.researchgate.net/profile/Md-Ismiel-Hossen-Abir" target="_blank">
+  <a href="https://www.researchgate.net/profile/Md-Ismiel-Hossen-Abir" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white" alt="ResearchGate" />
   </a>
-  <a href="https://orcid.org/0009-0000-3451-9490" target="_blank">
+  <a href="https://orcid.org/0009-0000-3451-9490" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
 </p>
@@ -38,7 +34,6 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
 - 🔭 I’m currently working on **AI/ML projects** – from image classification to LLM-powered applications.
 - 🌱 I’m currently learning **Quantum Computing, MLOps, Bioinformatics, and Reinforcement Learning**.
 - 👯 I’m looking to collaborate on **open-source AI/ML and research projects**.
-- 🎯 **Looking for PhD and research opportunities** in AI/ML, Psychology, Public Health, and Multidisciplinary Fields.
 - 📫 How to reach me: connect on **[LinkedIn](https://www.linkedin.com/in/md-ismiel-hossen-abir/)**.
 
 ---
@@ -59,13 +54,13 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
    **Md. Ismiel Hossen Abir**, Nayeema Ferdous, Afsara Tasnim, Nabiha Mustaqeem  
    *2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)*  
    Year: 2026 | Conference Paper | Publisher: IEEE  
-   🔗 DOI: [10.1109/ICECTE69292.2026.11429378](10.1109/ICECTE69292.2026.11429378)
+   🔗 DOI: [10.1109/ICECTE69292.2026.11429378](https://doi.org/10.1109/ICECTE69292.2026.11429378)
 
 2. **BERT-Based Malicious URL Detection with Explainable AI: A Comparative Analysis of Traditional and Transformer Models**  
    **Md. Ismiel Hossen Abir**, Sanjana Islam Kasfia, Abir Mahmud Shahariar  
    *2026 5th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE)*  
    Year: 2026 | Conference Paper | Publisher: IEEE  
-   🔗 DOI: [10.1109/ICECTE69292.2026.11429459](10.1109/ICECTE69292.2026.11429459)
+   🔗 DOI: [10.1109/ICECTE69292.2026.11429459](https://doi.org/10.1109/ICECTE69292.2026.11429459)
 
 ### 2025
 
@@ -73,21 +68,21 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
    **Md. Ismiel Hossen Abir**, M D. Shaek Ahmed, Nurul Bashar, Hasibul Islam Peyal  
    *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
    Year: 2025 | Conference Paper | Publisher: IEEE  
-   🔗 DOI: [10.1109/ECCE64574.2025.11013519](10.1109/ECCE64574.2025.11013519)
+   🔗 DOI: [10.1109/ECCE64574.2025.11013519](https://doi.org/10.1109/ECCE64574.2025.11013519)
 
 4. **XGBClassifier and Explainable AI for Disease Classification from Patient Symptom and Demographic Data with Late Fusion**  
    **Md. Ismiel Hossen Abir**, Nurul Bashar, Md. Shaek Ahmed, Hasibul Islam Peyal  
    *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
    Year: 2025 | Conference Paper | Publisher: IEEE  
    **Cited by: 1 paper**  
-   🔗 DOI: [10.1109/ECCE64574.2025.11013373](10.1109/ECCE64574.2025.11013373)
+   🔗 DOI: [10.1109/ECCE64574.2025.11013373](https://doi.org/10.1109/ECCE64574.2025.11013373)
 
 5. **Explainable Multiclass Blood Cell Classification: Combining Custom CNNs with SHAP**  
    **Md. Ismiel Hossen Abir**, Shantanu Dey Anik, Hasibul Islam Peyal  
    *2025 International Conference on Electrical, Computer and Communication Engineering (ECCE)*  
    Year: 2025 | Conference Paper | Publisher: IEEE  
    **Cited by: 2 papers**  
-   🔗 DOI: [10.1109/ECCE64574.2025.11012986](10.1109/ECCE64574.2025.11012986)
+   🔗 DOI: [10.1109/ECCE64574.2025.11012986](https://doi.org/10.1109/ECCE64574.2025.11012986)
 
 ### 2024
 
@@ -96,7 +91,7 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
    *2024 27th International Conference on Computer and Information Technology (ICCIT)*  
    Year: 2024 | Conference Paper | Publisher: IEEE  
    **Cited by: 2 papers**  
-   🔗 DOI: [10.1109/ICCIT64611.2024.11021878](10.1109/ICCIT64611.2024.11021878)
+   🔗 DOI: [10.1109/ICCIT64611.2024.11021878](https://doi.org/10.1109/ICCIT64611.2024.11021878)
 
 > 📚 Full list available on **[ResearchGate](https://www.researchgate.net/profile/Md-Ismiel-Hossen-Abir)** and **[ORCID](https://orcid.org/0009-0000-3451-9490)**.
 
@@ -279,12 +274,9 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
 | 🤗 **Transformers** | State-of-the-art NLP & LLM models |
 | 🎨 **Diffusers** | Diffusion models for image generation |
 | 🔍 **FAISS** | Vector similarity search for RAG |
-| 🧩 **LlamaIndex** | Data framework for LLM applications |
-| 🚀 **ONNX** | Cross-platform model inference |
 | 📊 **Weights & Biases** | Experiment tracking & MLOps |
 | 🧪 **Optuna** | Hyperparameter optimization |
 | 🎯 **Detectron2** | Object detection & segmentation |
-| 🖼️ **Albumentations** | Image augmentation |
 | 🗣️ **spaCy** | Industrial-strength NLP |
 | 🔤 **NLTK** | Natural language toolkit |
 | 📈 **SHAP** | Explainable AI – Shapley values |
@@ -329,7 +321,7 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
 ## 🏆 Kaggle
 
 <p align="center">
-  <a href="https://www.kaggle.com/mdismielhossenabir" target="_blank">
+  <a href="https://www.kaggle.com/mdismielhossenabir" target="_blank" rel="noopener noreferrer">
     <img src="https://road-to-kaggle-grandmaster.vercel.app/api/simple/mdismielhossenabir" alt="Kaggle Stats" />
   </a>
 </p>
@@ -342,70 +334,30 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
 ## 📊 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank">
+  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=ismielabir&show_icons=true&theme=algolia&hide_border=true&rank_icon=github" width="49%" />
   </a>
-  <a href="https://github.com/ismielabir/" target="_blank">
+  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ismielabir&theme=algolia&hide_border=true" width="49%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank">
+  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismielabir&langs_count=10&theme=algolia&layout=compact&hide_border=true" width="50%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank">
+  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=ismielabir&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="90%" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank">
+  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismielabir&theme=react-dark&hide_border=true&area=true" width="95%" />
   </a>
 </div>
 
 ---
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ismielabir/ismielabir/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="95%" />
-  </a>
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-ismiel-hossen-abir/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.kaggle.com/mdismielhossenabir" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Md-Ismiel-Hossen-Abir" target="_blank">
-    <img src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
-  </a>
-  <a href="https://orcid.org/0009-0000-3451-9490" target="_blank">
-    <img src="https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
-  </a>
-  <a href="mailto:ismielabir1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer Wave" />
-</p>
-
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/IsmielAbir" target="_blank">Md. Ismiel Hossen Abir</a> — Open to PhD & Research Collaborations</i>
-</p>
