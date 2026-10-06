@@ -348,16 +348,4 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
   </a>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=ismielabir&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" width="90%" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/ismielabir/" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ismielabir&theme=react-dark&hide_border=true&area=true" width="95%" />
-  </a>
-</div>
-
 ---
