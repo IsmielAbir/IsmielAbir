@@ -105,6 +105,7 @@ I am a **Computer Science researcher** with a multidisciplinary focus spanning *
 | **ACM SIGMICRO** | Member | 2026-10-01 to 2027-09-30 |
 | **ACM SIGARCH** | Online Member | 2026-10-01 to 2027-09-30 |
 | **International Society for Computational Biology (ISCB)** | Student Member | 2026-09-21 to 2027-09-21 |
+| **American Physical Society** | Graduate Student Member | 2026-09-21 to 2027-08-31 |
 
 ---
 
